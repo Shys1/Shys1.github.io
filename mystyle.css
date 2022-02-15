@@ -7,4 +7,10 @@ body {
 h1 {
   color: 8D0B39;
   border: bold white;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 70px;
+}
+ul {
+  list-style-type: none;
 }
